@@ -1,0 +1,12 @@
+/* Put your CSS here */
+html, body {
+    margin: 20px;
+}
+
+.active {
+	font-weight: bold;
+}
+
+.glyphicon {
+	margin-right: 10px;
+}
